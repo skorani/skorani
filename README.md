@@ -1,43 +1,14 @@
-teedoc official website
-=====
+### Hi, I’m Samira 👋
+- 🔭 I’m currently working on a travel assistant using LLMs & Knowledge Graphs.
+- 🌱 I’m diving deeper into CUDA programming and large-scale ML infra.
+- 💡 Fun fact: I designed my own transformer for real-time travel suggestions.
+- 🧠 Ask me about NLP, Neo4j, or scaling AI in the cloud.
 
-visit: [teedoc.neucrack.com](https://teedoc.neucrack.com/) or [teedoc.github.io](https://teedoc.github.io)
+### ⚒️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+... (add more)
 
-
-## build locally
-
-* Install teedoc
-
-```
-pip3 install teedoc
-```
-
-* Get site source files
-
-```
-git clone https://github.com/teedoc/teedoc.github.io my_site
-```
-
-或者
-
-```
-git clone https://github.com/teedoc/teedoc.gitee.io my_site
-```
-
-* Install plugins
-
-```
-cd my_site
-teedoc install
-```
-
-* build and serve
-
-```
-teedoc build
-teedoc serve
-```
-
-then visit [http://127.0.0.1:2333](http://127.0.0.1:2333)
-
-
+### 📈 GitHub Stats
+![Samira's GitHub stats](https://github-readme-stats.vercel.app/api?username=samira-gh&show_icons=true&theme=dracula)
