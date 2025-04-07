@@ -8,7 +8,8 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-333?style=flat&logo=neo4j)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-... (add more)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 
 ### 📈 GitHub Stats
 ![Samira's GitHub stats](https://github-readme-stats.vercel.app/api?username=samira-gh&show_icons=true&theme=dracula)
