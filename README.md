@@ -12,5 +12,3 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 
 
-### 📈 GitHub Stats
-![Samira's GitHub stats](https://github-readme-stats.vercel.app/api?username=samira-gh&show_icons=true&theme=dracula)
